@@ -1,0 +1,13 @@
+h1 {
+    color: indigo;
+    font-weight: 900;
+}
+
+h2 {
+    color: purple;
+}
+
+.thisclass {
+    color: black;
+    font-weight: x-large;
+}
