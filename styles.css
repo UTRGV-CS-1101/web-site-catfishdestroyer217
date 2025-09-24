@@ -7,7 +7,12 @@ h2 {
     color: purple;
 }
 
-.thisclass {
-    color: black;
-    font-weight: x-large;
+p {
+    color: midnightblue;
+    font-weight: bold;
+}
+
+img {
+    max-width: 75%%;
+    height: 75%;
 }
